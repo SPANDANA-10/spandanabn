@@ -12,6 +12,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SPANDANA-10/spandanabn/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/SPANDANA-10/spandanabn/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SPANDANA-10/spandanabn/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/SPANDANA-10/spandanabn/tree/master/1920-build-array-from-permutation) |
@@ -27,6 +28,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SPANDANA-10/spandanabn/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SPANDANA-10/spandanabn/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/SPANDANA-10/spandanabn/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -40,6 +42,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
