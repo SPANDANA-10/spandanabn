@@ -10,6 +10,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SPANDANA-10/spandanabn/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SPANDANA-10/spandanabn/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SPANDANA-10/spandanabn/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SPANDANA-10/spandanabn/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -41,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
