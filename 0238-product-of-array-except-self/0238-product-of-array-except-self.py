@@ -1,17 +1,13 @@
 class Solution(object):
     def productExceptSelf(self, nums):
-        prefix=[]
-        product=1
+        answer=[1]*len(nums)
+        prefix=1
         for i in range(len(nums)):
-            prefix.append(product)
-            product*=nums[i]
-        product=1
-        suffix=[]
+            answer[i]=prefix
+            prefix*=nums[i]
+        suffix=1
         for i in range(len(nums)-1,-1,-1):
-            suffix.append(product)
-            product*=nums[i]
-        suffix.reverse()
-        answer=[]
-        for i in range(len(nums)):
-            answer.append(prefix[i]*suffix[i])
+            answer[i]*=suffix
+            suffix*=nums[i]
         return answer
+        
