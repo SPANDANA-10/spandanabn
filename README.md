@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SPANDANA-10/spandanabn/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/SPANDANA-10/spandanabn/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SPANDANA-10/spandanabn/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SPANDANA-10/spandanabn/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SPANDANA-10/spandanabn/tree/master/0283-move-zeroes) |
