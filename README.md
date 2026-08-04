@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SPANDANA-10/spandanabn/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/SPANDANA-10/spandanabn/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SPANDANA-10/spandanabn/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SPANDANA-10/spandanabn/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SPANDANA-10/spandanabn/tree/master/0283-move-zeroes) |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SPANDANA-10/spandanabn/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
