@@ -9,8 +9,8 @@ class Solution(object):
             left=i+1
             right=len(nums)-1
             while left<right:
-                sum=nums[left]+nums[right]
-                if sum+nums[i]==0:
+                sum=nums[i]+nums[left]+nums[right]
+                if sum==0:
                     result.append([nums[i],nums[left],nums[right]])
                     left+=1
                     right-=1
@@ -18,7 +18,7 @@ class Solution(object):
                         left+=1
                     while left<right and nums[right]==nums[right+1]:
                         right-=1
-                elif sum+nums[i]<0:
+                elif sum<0:
                     left+=1
                 else:
                     right-=1
