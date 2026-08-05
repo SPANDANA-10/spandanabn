@@ -26,6 +26,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/SPANDANA-10/spandanabn/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SPANDANA-10/spandanabn/tree/master/1672-richest-customer-wealth) |
@@ -74,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0283-move-zeroes](https://github.com/SPANDANA-10/spandanabn/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
