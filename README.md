@@ -24,6 +24,7 @@
 | [0525-contiguous-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SPANDANA-10/spandanabn/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/SPANDANA-10/spandanabn/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -76,6 +77,7 @@
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/SPANDANA-10/spandanabn/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -89,6 +91,7 @@
 | [0283-move-zeroes](https://github.com/SPANDANA-10/spandanabn/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/SPANDANA-10/spandanabn/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
