@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/SPANDANA-10/spandanabn/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SPANDANA-10/spandanabn/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SPANDANA-10/spandanabn/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SPANDANA-10/spandanabn/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SPANDANA-10/spandanabn/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SPANDANA-10/spandanabn/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -121,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
