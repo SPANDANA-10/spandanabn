@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SPANDANA-10/spandanabn/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0523-continuous-subarray-sum) |
@@ -83,6 +84,7 @@
 | [0075-sort-colors](https://github.com/SPANDANA-10/spandanabn/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SPANDANA-10/spandanabn/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/SPANDANA-10/spandanabn/tree/master/0905-sort-array-by-parity) |
@@ -168,5 +170,6 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SPANDANA-10/spandanabn/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SPANDANA-10/spandanabn/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
