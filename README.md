@@ -69,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/SPANDANA-10/spandanabn/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +150,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -172,4 +174,9 @@
 | [0125-valid-palindrome](https://github.com/SPANDANA-10/spandanabn/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SPANDANA-10/spandanabn/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
