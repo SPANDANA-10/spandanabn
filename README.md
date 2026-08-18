@@ -183,6 +183,7 @@
 | [0344-reverse-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
 ## Counting
 |  |
 | ------- |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SPANDANA-10/spandanabn/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
