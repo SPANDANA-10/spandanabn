@@ -188,6 +188,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/SPANDANA-10/spandanabn/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SPANDANA-10/spandanabn/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
@@ -202,4 +203,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SPANDANA-10/spandanabn/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SPANDANA-10/spandanabn/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
