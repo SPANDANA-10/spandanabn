@@ -114,6 +114,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/SPANDANA-10/spandanabn/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/SPANDANA-10/spandanabn/tree/master/0905-sort-array-by-parity) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/SPANDANA-10/spandanabn/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -191,6 +193,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SPANDANA-10/spandanabn/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SPANDANA-10/spandanabn/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
