@@ -118,6 +118,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/SPANDANA-10/spandanabn/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/SPANDANA-10/spandanabn/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SPANDANA-10/spandanabn/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/SPANDANA-10/spandanabn/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/SPANDANA-10/spandanabn/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
