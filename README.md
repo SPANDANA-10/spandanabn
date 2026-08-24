@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SPANDANA-10/spandanabn/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/SPANDANA-10/spandanabn/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SPANDANA-10/spandanabn/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SPANDANA-10/spandanabn/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SPANDANA-10/spandanabn/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SPANDANA-10/spandanabn/tree/master/0242-valid-anagram) |
@@ -85,6 +87,7 @@
 | [0015-3sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SPANDANA-10/spandanabn/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/SPANDANA-10/spandanabn/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SPANDANA-10/spandanabn/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SPANDANA-10/spandanabn/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/SPANDANA-10/spandanabn/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SPANDANA-10/spandanabn/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SPANDANA-10/spandanabn/tree/master/0205-isomorphic-strings) |
