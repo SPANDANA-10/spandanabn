@@ -1,13 +1,12 @@
 class Solution(object):
     def lengthOfLastWord(self, s):
-        res=""
+        count=0
         for i in range(len(s)-1,-1,-1):
-            if s[i].isalpha():
-                res+=s[i]
-            elif len(res)==0:
-                continue
+            if s[i]==' ':
+                if count>0:
+                    break
             else:
-                break
-        return len(res)
+                count+=1
+        return count
             
         
