@@ -204,6 +204,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SPANDANA-10/spandanabn/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/SPANDANA-10/spandanabn/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/SPANDANA-10/spandanabn/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SPANDANA-10/spandanabn/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
 ## Stack
 |  |
@@ -245,10 +247,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SPANDANA-10/spandanabn/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/SPANDANA-10/spandanabn/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
