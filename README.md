@@ -38,6 +38,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SPANDANA-10/spandanabn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/SPANDANA-10/spandanabn/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SPANDANA-10/spandanabn/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/SPANDANA-10/spandanabn/tree/master/1920-build-array-from-permutation) |
@@ -154,6 +155,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SPANDANA-10/spandanabn/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SPANDANA-10/spandanabn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
