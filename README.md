@@ -43,6 +43,7 @@
 | [1672-richest-customer-wealth](https://github.com/SPANDANA-10/spandanabn/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/SPANDANA-10/spandanabn/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SPANDANA-10/spandanabn/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SPANDANA-10/spandanabn/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SPANDANA-10/spandanabn/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SPANDANA-10/spandanabn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SPANDANA-10/spandanabn/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SPANDANA-10/spandanabn/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
