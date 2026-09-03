@@ -156,6 +156,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SPANDANA-10/spandanabn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SPANDANA-10/spandanabn/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SPANDANA-10/spandanabn/tree/master/1021-remove-outermost-parentheses) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SPANDANA-10/spandanabn/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SPANDANA-10/spandanabn/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/SPANDANA-10/spandanabn/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
