@@ -21,6 +21,7 @@
 | [0152-maximum-product-subarray](https://github.com/SPANDANA-10/spandanabn/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SPANDANA-10/spandanabn/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SPANDANA-10/spandanabn/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SPANDANA-10/spandanabn/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SPANDANA-10/spandanabn/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SPANDANA-10/spandanabn/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SPANDANA-10/spandanabn/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0523-continuous-subarray-sum) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SPANDANA-10/spandanabn/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -154,6 +157,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SPANDANA-10/spandanabn/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
