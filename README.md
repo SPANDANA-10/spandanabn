@@ -38,6 +38,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/SPANDANA-10/spandanabn/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SPANDANA-10/spandanabn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/SPANDANA-10/spandanabn/tree/master/1480-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@
 | [0724-find-pivot-index](https://github.com/SPANDANA-10/spandanabn/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/SPANDANA-10/spandanabn/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/SPANDANA-10/spandanabn/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -139,6 +141,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SPANDANA-10/spandanabn/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/SPANDANA-10/spandanabn/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SPANDANA-10/spandanabn/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/SPANDANA-10/spandanabn/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SPANDANA-10/spandanabn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SPANDANA-10/spandanabn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SPANDANA-10/spandanabn/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
