@@ -90,6 +90,7 @@
 | [0523-continuous-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SPANDANA-10/spandanabn/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SPANDANA-10/spandanabn/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -135,6 +136,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SPANDANA-10/spandanabn/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/SPANDANA-10/spandanabn/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SPANDANA-10/spandanabn/tree/master/0977-squares-of-a-sorted-array) |
@@ -168,6 +170,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SPANDANA-10/spandanabn/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SPANDANA-10/spandanabn/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SPANDANA-10/spandanabn/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/SPANDANA-10/spandanabn/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SPANDANA-10/spandanabn/tree/master/0930-binary-subarrays-with-sum) |
@@ -234,6 +237,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SPANDANA-10/spandanabn/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/SPANDANA-10/spandanabn/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/SPANDANA-10/spandanabn/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SPANDANA-10/spandanabn/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SPANDANA-10/spandanabn/tree/master/1021-remove-outermost-parentheses) |
